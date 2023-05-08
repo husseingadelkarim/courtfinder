@@ -1,0 +1,15 @@
+release/booking.o
+release/bookingtime.o
+release/courts.o
+release/homepage.o
+release/login.o
+release/main.o
+release/mainwindow.o
+release/signup.o
+release/moc_booking.o
+release/moc_bookingtime.o
+release/moc_courts.o
+release/moc_homepage.o
+release/moc_login.o
+release/moc_mainwindow.o
+release/moc_signup.o

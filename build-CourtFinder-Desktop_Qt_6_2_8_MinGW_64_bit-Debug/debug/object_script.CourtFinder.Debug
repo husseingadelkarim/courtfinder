@@ -1,0 +1,15 @@
+debug/booking.o
+debug/bookingtime.o
+debug/courts.o
+debug/homepage.o
+debug/login.o
+debug/main.o
+debug/mainwindow.o
+debug/signup.o
+debug/moc_booking.o
+debug/moc_bookingtime.o
+debug/moc_courts.o
+debug/moc_homepage.o
+debug/moc_login.o
+debug/moc_mainwindow.o
+debug/moc_signup.o
